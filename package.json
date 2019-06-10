@@ -1,0 +1,35 @@
+{
+  "name": "gw2-api-project",
+  "version": "0.0.1",
+  "description": "gw2 api wrapper",
+  "main": "cli.js",
+  "bin": {
+    "gw2": "./cli.js"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gw2-api-project"
+  },
+  "keywords": [
+    "gw2",
+    "gaming",
+    "api",
+    "client",
+    "wrapper"
+  ],
+  "author": "Isaiah Thiessen",
+  "license": "ISC",
+  "dependencies": {
+    "encodeurl": "^1.0.2",
+    "node-fetch": "^2.6.0",
+    "prettyjson": "^1.2.1",
+    "yargs": "^13.2.4"
+  }
+}
