@@ -28,7 +28,7 @@
   "license": "ISC",
   "dependencies": {
     "encodeurl": "^1.0.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "prettyjson": "^1.2.1",
     "yargs": "^13.2.4"
   }
